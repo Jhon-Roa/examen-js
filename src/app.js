@@ -1,0 +1,5 @@
+import './modules/menu.js'
+import './modules/imc-element.js'
+import './modules/gallery.js'
+import './modules/table.js'
+import './modules/api-element.js'
